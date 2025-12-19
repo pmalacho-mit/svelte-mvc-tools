@@ -21,3 +21,6 @@ bash <(curl https://raw.githubusercontent.com/pmalacho-mit/suede/refs/heads/main
 
 </details>
 
+- URLParameterizer
+- WithEvents
+- yj$
