@@ -24,3 +24,4 @@ bash <(curl https://raw.githubusercontent.com/pmalacho-mit/suede/refs/heads/main
 - URLParameterizer
 - WithEvents
 - yj$
+- snippet renderer
