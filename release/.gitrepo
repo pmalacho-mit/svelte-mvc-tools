@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/svelte-mvc-tools
+	branch = release
+	commit = 647a85ba771da9345ad07647b7af06846930773e
+	parent = d1e3119d2f271f2bd89fdb4ab0b8852cab4936b4
+	method = merge
+	cmdver = 0.4.9
